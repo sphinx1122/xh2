@@ -1,0 +1,9 @@
+/*CSS DOCUMENT*/
+
+.di1{border:2px solid red; width:150px; height:150px;float:left;color:blue;font-size:40px;}
+.di2{border-right:2px solid red; width:250px; height:250px;margin:10px; float:left;background-image:url("./upload/1.jpg");background-repat:no-repeat;font-size:50px;}
+.di3{border:2px solid red; width:150px; height:150px;clear:both;display:block;background:yellow;font-weight:bold;font-family:"ºÚÌå";text-align:center; line-height:150px;}
+
+
+
+
